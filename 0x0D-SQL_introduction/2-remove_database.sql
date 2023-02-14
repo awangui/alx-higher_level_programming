@@ -1,2 +1,2 @@
 --script to delete database
-DELEETE DATABASE hbtn_0c_0
+DELETE DATABASE IF NOT EXISTS hbtn_0c_0
